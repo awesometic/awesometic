@@ -7,7 +7,7 @@
 - How these people do like this? Are they genius?
 - Am I good at development? 
 
-### 💻 Doing something using these,
+### 💻 Currently doing something using these,
 
 #### Environment
 
