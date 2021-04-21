@@ -5,7 +5,9 @@
 - How these people do like this? Are they genius?
 - Am I good at development? 
 
-### 💻 Currently doing something using these,
+### 💻 Currently doing something using these, 
+
+Not meaning that I'm professional on all of them. Did something and they're working somewhere. 😃
 
 #### Environment
 
