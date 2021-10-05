@@ -7,7 +7,7 @@
 
 ### 💻 Currently doing something using these, 
 
-Not meaning that I'm professional on all of them. 😃
+Not meaning that I'm an expert on all of them. 😃
 
 #### Environment
 
