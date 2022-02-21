@@ -6,6 +6,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=awesometic&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_title=true)
 
+![](https://github-profile-trophy.vercel.app/?username=awesometic&theme=nord&column=8)
+
 ### 💻 Currently doing something with,
 
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/> <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"/>
