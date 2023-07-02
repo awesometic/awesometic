@@ -1,6 +1,7 @@
-### 💻 I, am
+### 💁 I, am
 
 * NestJS Backend developer
+* Previously Linux system engineer
 * Hobbyist AOSP developer
 * Loving open source projects
 * Want to learn sleek frontend technique
