@@ -8,8 +8,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=awesometic&theme=nord&column=8)
 
-[![](https://visitcount.itsvg.in/api?id=awesometic&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
-
 ### 💻 Currently doing something with,
 
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/> <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"/>
@@ -21,3 +19,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20OS-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Launchpad-F8C300?style=flat-square&logo=Launchpad&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+
+### 👀 Profile view counter
+
+[![](https://visitcount.itsvg.in/api?id=awesometic&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
