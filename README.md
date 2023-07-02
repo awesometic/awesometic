@@ -3,7 +3,7 @@
 * NestJS Backend developer
 * Hobbyist AOSP developer
 * Loving open source projects
-* Want to learn sleek frontend technic
+* Want to learn sleek frontend technique
 * Watching single-board computer products
 * Tiny contributor doing it on demand
 
