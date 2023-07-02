@@ -8,6 +8,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=awesometic&theme=nord&column=8)
 
+[![](https://visitcount.itsvg.in/api?id=awesometic&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
+
 ### 💻 Currently doing something with,
 
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/> <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"/>
