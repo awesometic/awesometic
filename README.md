@@ -1,3 +1,12 @@
+### 💻 I, am
+
+* NestJS Backend developer
+* Hobbyist AOSP developer
+* Loving open source projects
+* Want to learn sleek frontend technic
+* Watching single-board computer products
+* Tiny contributor doing it on demand
+
 ### 🤔 Thinking these days,
 
 ... have to dig in something as much as the other people do.
